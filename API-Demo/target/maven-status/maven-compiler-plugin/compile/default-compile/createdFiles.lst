@@ -1,0 +1,5 @@
+com/gov/mod/uk/orion/model/User.class
+com/gov/mod/uk/orion/model/UserRegistration.class
+com/gov/mod/uk/orion/controller/UserController.class
+com/gov/mod/uk/orion/model/UserRegistrationResponse.class
+com/gov/mod/uk/orion/ApiDemoApplication.class
