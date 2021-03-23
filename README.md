@@ -7,7 +7,8 @@ This a JAVA Springboot API demo project built to test REST API calls from Postma
 
 The API is there to add users to a List, initially/on start the list will be empty.  The service runs on port 8083.
 
-Rest URls:
+
+* Rest URls:
 * Add user/ POST : Postman create new request(POST). URL:- http://localhost:8083/register/user, Header: Content-Type: application/json , Body: select raw and type 
   {
     "name": "User1",
